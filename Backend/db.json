@@ -1,0 +1,17 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "user@example.com",
+        "password": "password123"
+      }
+    ],
+    "todos": [
+      {
+        "id": 1,
+        "title": "Learn Full Stack Development",
+        "completed": false
+      }
+    ]
+  }
+  
